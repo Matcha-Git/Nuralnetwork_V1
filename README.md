@@ -1,1 +1,1 @@
-# Nuralnetwork_V1(align="centre")
+# Nuralnetwork_V1
